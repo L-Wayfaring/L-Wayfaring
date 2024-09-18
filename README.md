@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I am L. Wayfaring :
 🔭 I’m currently working on several Projects and Competitive Programming <br>👯 I’m looking to collaborate on an AI Research<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning Python<br>💬 Ask me about Front-end Codes
 
 
